@@ -51,7 +51,8 @@ Start the development server: `npm run start`
 
 I welcome contributions from the community. Feel free to open issues, create pull requests, or suggest new features.
 
+<!--
 ## Acknowledgments
 
 I would like to express our gratitude to the open-source community and the developers of the technologies used in this project. Your contributions are invaluable.
-Many thanks to Javascript Mastery for guiding me through this project.
+Many thanks to Javascript Mastery for guiding me through this project. -->
