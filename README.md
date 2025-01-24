@@ -38,6 +38,8 @@ Navigate to the project directory: `cd Filmpire`
 
 Install dependencies: `npm install`
 
+Get a free Access token from [The Movie Database](https://www.themoviedb.org/documentation/api) and add it to the .env file.
+
 Start the development server: `npm run start`
 
 ## Technologies Used
