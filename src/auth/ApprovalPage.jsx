@@ -20,7 +20,7 @@ export default function Approved() {
             localStorage.setItem("approved_token", token);
             localStorage.removeItem("unapproved_token");
             console.log("Token approved");
-            navigate("/");
+            navigate(-1);
         } else if (token === unapprovedToken && approved === "false") {
             console.log("Token denied");
             navigate("/");
